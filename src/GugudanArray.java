@@ -1,4 +1,4 @@
-public class Gugudan2 {
+public class GugudanArray {
     public static void main(String [] args){
         int[] times = new int[9];
         for (int j = 2; j < 10; j++) {
